@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zaman Ali</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **RAG and Sign Language Detection**
+- 🔭 I’m currently working on **RAG Chatbots and Sign Language Detection**
 
 - 🌱 I’m currently learning **Generative AI and APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alizaman855](https://github.com/alizaman855)
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning and AI Modeling**
 
 - 📫 How to reach me **mzamanali637@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bhqDXhstgyhJFlkaM7k2GhCZVTBEsdZK/view](https://drive.google.com/file/d/1bhqDXhstgyhJFlkaM7k2GhCZVTBEsdZK/view)
-
-- ⚡ Fun fact **Debugging is like being the detective in a crime movie where you are also the murderer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
