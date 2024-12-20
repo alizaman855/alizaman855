@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zaman Ali</h1>
-<h3 align="center">Machine Learning Engineer at **GICOH**</h3>
+<h3 align="center">Machine Learning Engineer at GICOH</h3>
 
 - 🔭 I’m currently working on **RAG Chatbots and Sign Language Detection**
 
